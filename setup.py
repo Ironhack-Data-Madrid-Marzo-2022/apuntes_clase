@@ -20,3 +20,7 @@ setuptools.setup(
     ],
     python_requires='>=3.7',
 )
+
+
+def suma(a, b, c, d):
+	return a+b-c*d
