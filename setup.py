@@ -19,8 +19,18 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
+<<<<<<< HEAD
 )
 
 
 def suma(a, b, c, d):
 	return a+b-c*d
+=======
+
+)
+
+
+
+def suma(a, b):
+	return a+b
+>>>>>>> arbol
