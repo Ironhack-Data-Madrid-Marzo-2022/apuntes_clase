@@ -10,7 +10,7 @@ __pycache__
 /*.log
 selenium/
 
-contraseñas.txtx
+contraseñas.txt
 
 .env
 *.hdf5
