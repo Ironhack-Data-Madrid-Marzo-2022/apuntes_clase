@@ -19,4 +19,10 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
+
 )
+
+
+
+def suma(a, b):
+	return a+b
