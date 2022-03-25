@@ -18,7 +18,7 @@
 
 + **L:** Álgebra / Numpy / Intro Pandas
 + **M:** Pandas Deepdive
-+ **X:** Data Cleaning
++ **X:** Data Cleaning      (Sesion 1 Outcomes 9:30-10:30)
 + **J:** Data Cleaning 2
 + **V:** Proyecto Limpieza (Sharks)
 
@@ -37,7 +37,7 @@
 
 + **L:** Estructura de la web / APIs
 + **M:** RSS / Web scraping(bs4)
-+ **X:** Web scraping(selenium) / Automatización
++ **X:** Web scraping(selenium) / Automatización  (Sesion 2 Outcomes 9:30-10:30)
 + **J:** Paralelización / Multiprocesos
 + **V:** Proyecto ETL
 
@@ -77,5 +77,5 @@
 
 + **L:** Time Series
 + **M:** Airflow / MLFlow
-+ **X:** Cloud
++ **X:** Cloud             (Sesion 3 Outcomes 9:30-10:30)
 
