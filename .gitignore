@@ -4,6 +4,7 @@ __pycache__
 /.idea
 *.idea
 *.xml
+**/*.xml
 *.iml
 *.weights
 *.log
