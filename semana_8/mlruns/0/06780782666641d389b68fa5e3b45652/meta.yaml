@@ -1,0 +1,15 @@
+artifact_uri: file:///home/iudh/data_textbook/week_8/mlruns/0/06780782666641d389b68fa5e3b45652/artifacts
+end_time: 1652179083012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 06780782666641d389b68fa5e3b45652
+run_uuid: 06780782666641d389b68fa5e3b45652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652179081823
+status: 4
+tags: []
+user_id: iudh
